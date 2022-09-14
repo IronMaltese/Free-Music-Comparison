@@ -13,4 +13,4 @@ A comparison of free music streaming services
 | Background play (mobile) | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ |
 | No account required | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ |
 | Choose playing song | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
-| Search within app | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Search within app | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
