@@ -14,4 +14,4 @@ A comparison of free music streaming services
 | No account required | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ |
 | Choose song | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
 | Search songs | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
-| Artist pages | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| Artist pages | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
