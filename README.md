@@ -12,5 +12,5 @@ A comparison of free music streaming services
 | No ads during music | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ |
 | Background play (mobile) | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ |
 | No account required | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ |
-| Choose playing song | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
-| Search within app | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Choose song | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| Search songs | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
