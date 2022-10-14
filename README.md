@@ -11,7 +11,7 @@ A comparison of free music streaming services
 | Downloads | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | DRM Free | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
 | Background play (mobile) | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ |
-| No account required | ✅ | ✅ | ✅ | ❌ | (mobile required) | ✅ |
+| No account required | ✅ | ✅ | ✅ | ❌ | required on mobile | ✅ |
 | Choose song | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
 | Search songs | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
 | Artist pages | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
