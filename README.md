@@ -1,5 +1,5 @@
 <html>
-  <h1>Free-Music-Comparison</h1>
+  <h1>Free Music Comparison</h1>
     <h2>A comparison of free music streaming services</h2>
 <table>
 <tr>
