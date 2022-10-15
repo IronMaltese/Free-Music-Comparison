@@ -113,5 +113,5 @@
  </table>
 <h2>Mirror Repos</h2>
   <a href="https://codeberg.org/Iron-Maltese/Free-Music-Comparison"> <img src="https://raw.githubusercontent.com/ManeraKai/manerakai/main/icons/codeberg.svg" alt="Codeberg Badge"></a>
-  <a href="https://github.com/IronMaltese/YouTube-Frontend-Comparison"> <img src="https://github.com/IronMaltese/Free-Music-Comparison" alt="Codeberg Badge"></a>
+  <a href="https://github.com/IronMaltese/Free-Music-Comparison"> <img src="https://raw.githubusercontent.com/ManeraKai/manerakai/main/icons/github.svg" alt="Codeberg Badge"></a>
 </html>
