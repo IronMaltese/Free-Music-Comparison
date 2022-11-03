@@ -39,7 +39,7 @@
     <th>✅</th>
   </tr>
   <tr>
-    <th>No ads during music</th>
+    <th>No Audio Ads</th>
     <th>✅</th>
     <th>✅</th>
     <th>✅</th>
